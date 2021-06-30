@@ -1,0 +1,15 @@
+24 Inch Dell Monitor with 60hz Refresh Rate VA Panel 1080p,3500,7,2999
+27 Inch ASUS Monitor with 75hz Refresh Rate IPS Panel 1080p,4200,28,3599
+27 Inch ACER Monitor with 144hz Refresh Rate IPS Panel 1080p,5200,11,4799
+32 Inch AOC Monitor with 165hz Refresh Rate VA Panel 1080p,5400,9,4999
+27 Inch ViewSonic Monitor with24 0hz Refresh Rate IPS Panel 1080p,7500,12,6999
+27 Inch Dell Monitor with 75hz Refresh Rate VA Panel 1440p,7900,8,8500
+27 Inch Alienware Monitor with 240hz Refresh Rate VA Panel 1080p,7999,6,8700
+32 Inch ViewSonic Monitor with 144hz Refresh Rate VA Panel 1440p,8399,4,7900
+32 Inch Dell Monitor with 165hz Refresh Rate IPS Panel 1440p,8599,6,8100
+32 Inch AOC Monitor with 144hz Refresh Rate IPS Panel 1440p,8599,7,8000
+27 Inch MSI Monitor with 165hz Refresh Rate VA Panel 1440p,10999,3,10500
+43 Inch Dell PRO Monitor with 60hz Refresh Rate IPS Panel 4K,11899,2,10999
+34 Inch OC Monitor with 144hz Refresh Rate VA Panel 1440P,139996,6,12999
+27 Inch ViewSonic Monitor with 144hz Refresh Rate IPS Panel 4K,17999,5,17299
+43 Inch Lenovo Monitor with 144hz Refresh Rate VA Panel 4K,21999,5,22999
